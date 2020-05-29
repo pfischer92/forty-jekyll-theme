@@ -5,6 +5,7 @@ nav-menu: true
 ---
 
 <!-- Main -->
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div id="main" class="alt">
 
 <!-- One -->
@@ -16,6 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Sample Content</h2>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="de_DE" data-type="horizontal" data-theme="dark" data-vanity="patrick-fischer-7879b1126"><a class="LI-simple-link" href='https://de.linkedin.com/in/patrick-fischer-7879b1126?trk=profile-badge'>Patrick Fischer</a></div>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
